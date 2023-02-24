@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1> Ramiro Alvarez</h1>
+<h1> I'm Ramiro Alvarez</h1>
 <br /> 
 
                     
@@ -29,7 +29,7 @@
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=vite,python,docker,django,wagtail&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=vite,python,docker,django,wagtail,js,ts,java,spring,aws,golang&perline=9"  />
 </p>
 <br />
 
@@ -76,4 +76,3 @@
 <a href="https://instagram.com/liko28s" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="liko28s" /></a>
 <a href="https://www.linkedin.com/in/liko28s/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=liko28s&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
