@@ -41,7 +41,7 @@
 
 <br />
 
-<p>&nbsp;<a href="https://github.com/liko28s#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liko28s&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="liko28s" /></a>
+<p>&nbsp;<a href="https://github.com/liko28s#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liko28s&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true#gh-dark-mode-only" alt="liko28s" /></a>
 <a href="https://github.com/liko28s#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liko28s&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="liko28s" /></a>
 </p> 
 <br>
